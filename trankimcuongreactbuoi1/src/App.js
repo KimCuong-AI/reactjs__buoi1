@@ -9,8 +9,7 @@ import ThuNghiem from './component/demo/ThuNghiem';
 function App() {
   return (
     <div className="App">
-      {/* <BT3Layout/> */}
-      <ThuNghiem/>
+       <BT3Layout/>
     </div>
   );
 }
